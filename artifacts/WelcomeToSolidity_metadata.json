@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getResults",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"firstSmartContract.sol": "WelcomeToSolidity"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"firstSmartContract.sol": {
+			"keccak256": "0x6c2a48e4a243fe5d3c85d4e82a37b2684b5fa9cbfdf73297a58a2737da2c2c4f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://c327b13e3522a788265996c309e22f417cdb8f41ab2f1300003a5e27c3c5c4d9",
+				"dweb:/ipfs/QmNTRsf5rNw3dqiRkVtpGGZiqDL3DroYd7MHNTR3ZBvarN"
+			]
+		}
+	},
+	"version": 1
+}
