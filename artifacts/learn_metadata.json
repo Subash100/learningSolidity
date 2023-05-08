@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"variables_types.sol": "v_riable"
+			"variables_types.sol": "learn"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"variables_types.sol": {
-			"keccak256": "0x4ca7a1a7247fb78fb892fc9d9e43573381984779fae829710b9c15d27da8bcd9",
+			"keccak256": "0x6aa80b716e9d4927a849316ab3b5a0adcbc881fe162f9be8bd2479f3c98afa00",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://5ed361d250712ec32331cb2a3cad38e94812aecf72072a486ef6f784f3c77752",
-				"dweb:/ipfs/QmatBtxviGS9fQyCva7YPSN2wQoYpRvStzebtLsrxJxSfC"
+				"bzz-raw://d59ecbaf8d912970f7c9d99fc2b244d69354de3276a5a941e214bac1855d3192",
+				"dweb:/ipfs/QmdWzRrjUhiTGyFoS3vwoe9DaBzdsibn3AY5iKhD1j7xDJ"
 			]
 		}
 	},
