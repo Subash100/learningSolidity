@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "validateOranges",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"decision_making.sol": "decisionMaking"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"decision_making.sol": {
+			"keccak256": "0x78b3c35ac2d1faa2cb39ede0ddadea63596be74cc4a842bfa61486c2a8f616fa",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://ccc27cd181921c558dd5a13c68a74189f6dfbd721c424d645608bade9112eb0d",
+				"dweb:/ipfs/QmWoAd3RWsuTvxGPHqrj9PdzgFVzGwUvENMcEdJ4MEq9Jq"
+			]
+		}
+	},
+	"version": 1
+}
