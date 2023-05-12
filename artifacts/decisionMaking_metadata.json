@@ -7,6 +7,19 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "airDrop",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "validateOranges",
 				"outputs": [
 					{
@@ -47,11 +60,11 @@
 	},
 	"sources": {
 		"decision_making.sol": {
-			"keccak256": "0x78b3c35ac2d1faa2cb39ede0ddadea63596be74cc4a842bfa61486c2a8f616fa",
+			"keccak256": "0x138350ee9a7bb1e64e5a930bce7f38aad5a0978c45d467ac90123bfc3c083de1",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://ccc27cd181921c558dd5a13c68a74189f6dfbd721c424d645608bade9112eb0d",
-				"dweb:/ipfs/QmWoAd3RWsuTvxGPHqrj9PdzgFVzGwUvENMcEdJ4MEq9Jq"
+				"bzz-raw://79c3a0e6c3600c9e34aa864b78c570047de829abb0981b6ac597d20e55506bb9",
+				"dweb:/ipfs/QmYUtPbeim76j9DMLux1FKAdn8s69HsvBtp4zhVPjqrgzR"
 			]
 		}
 	},
