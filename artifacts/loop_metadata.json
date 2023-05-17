@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"loop.sol": "logicalOperator"
+			"loop.sol": "loop"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"loop.sol": {
-			"keccak256": "0x439eb0fca39fb7b92ff4f6547300945e200f816476e122e197cee3151401e30f",
+			"keccak256": "0x0817bc77caff23c29b8c07176a99318f17da15a93fcbc3eba00590de1f703740",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://26f904d0c9e605d4e0cddc01a4f71bdfbf257c2b5e466d03e3c46ac18aad3d78",
-				"dweb:/ipfs/QmSecyVfC8CdCZGE7a19nADgGBb1m1Si3z9kR3KHXYgAjK"
+				"bzz-raw://a73aa279d8154294355b1296fb81b1f9af76ee7066e2783723984df34348f241",
+				"dweb:/ipfs/QmSk9FV7oRKr3iiAwPe4tC8LwNrUUckALKE4GAG18brpcy"
 			]
 		}
 	},
