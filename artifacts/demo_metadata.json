@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"string.sol": "demo"
+			"bitsAndUintsConversion.sol": "demo"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"string.sol": {
-			"keccak256": "0x029b154f9ff795732934e6078943123db1a14365abcc46b46755567f403fa64d",
+		"bitsAndUintsConversion.sol": {
+			"keccak256": "0xfed7135f35ed0e801dddfd25673a33cdbef428bd38ef925170e553980f6b17f7",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://7bc05a3dea9dbfb14b0e135269f9c522b5b2723db59c6babb3e5eb3bd15291e0",
-				"dweb:/ipfs/QmPkw616kruHdJy7QwbjNsWWMrrteunxjQJCKA8D7Txs3Q"
+				"bzz-raw://ebf527658c48f71a2679b8522fc8d98f9924d374ca82c7980ed07cff213e985a",
+				"dweb:/ipfs/QmcXiXmrXGLNAA2b2XQYL1FA31XnNMj1AaieZbmAFxqnKN"
 			]
 		}
 	},
