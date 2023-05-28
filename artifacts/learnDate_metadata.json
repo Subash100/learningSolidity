@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "time",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"assertTimeAndDate.sol": "learnDate"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"assertTimeAndDate.sol": {
+			"keccak256": "0x03fb60df56f4a97bd01f3e9d80fba1585ae96cff8834bc1255050478a1c577f3",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://48967035cdb59d844d0bac8412545d2a082ca1361120b3a05b4587511c7f310e",
+				"dweb:/ipfs/QmRFCqdSQvPxe6m4ENPpwf3ebHxBZXwUP93anpwu51BWKv"
+			]
+		}
+	},
+	"version": 1
+}
