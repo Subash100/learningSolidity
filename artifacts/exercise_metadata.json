@@ -4,34 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "multiply",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "valuePlusThree",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -45,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"KeyWord(view Pure).sol": "exercise"
+			"destructuringFunction.sol": "exercise"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"KeyWord(view Pure).sol": {
-			"keccak256": "0x67e7981f61d22ae33090c605a5df2d575a1054f58b1a3ceb1f2eff66be50866b",
+		"destructuringFunction.sol": {
+			"keccak256": "0x98e4d9fa5984df56da05b2c21157ac09d34371dc8d95881a54990d38ec884a0f",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://de20a9033f19c1fd2d04b350dc56d59285ecef404316c5efd659b4f4789d377f",
-				"dweb:/ipfs/QmYnCWVPHFnpu4zEZ7zHaHqbHZsgtct3C9iSdWVdUaQvFP"
+				"bzz-raw://3f94ac8c5e17561392f2f90e4cee8391439a197f708c8b8138a89aa413d29afd",
+				"dweb:/ipfs/Qmb8fKUoxrdGhY2rNLrV2S5NphF1NfFmLfyjZNUfqW7ijC"
 			]
 		}
 	},
