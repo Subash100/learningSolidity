@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "wallet",
+						"type": "uint256"
+					}
+				],
+				"name": "x",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "lightswitch",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "wallet",
+						"type": "uint256"
+					}
+				],
+				"name": "x",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"functionoverloading.sol": "FunctionOverloading"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"functionoverloading.sol": {
+			"keccak256": "0xac566c54b081a955573bfcd417a8f149fe426c8b6e065b565a59661255fb437b",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://bf1fe50e755d2d2ff4ebd2ea65dc6f5cf8dd60fbb6be3d293068326badd30178",
+				"dweb:/ipfs/QmQvsUN7aRiyj3iyak6EKaUVEPCqM86GyAMgRWafpm5ena"
+			]
+		}
+	},
+	"version": 1
+}
