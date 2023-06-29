@@ -6,21 +6,14 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"name": "logic",
-				"outputs": [
+				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "",
+						"name": "range",
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "logic1",
+				"name": "randMod",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -45,7 +38,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"operators.sol": "logicalOperator"
+			"cryptographicFunction.sol": "GenerateRandomNumber"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,12 +52,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"operators.sol": {
-			"keccak256": "0xf4fb4d273dd5a382caf9a6051420945557fa79346af5d04b6c57a2320e395688",
+		"cryptographicFunction.sol": {
+			"keccak256": "0xccd7a2be4846d802df1b95dd8143f291308413fe63e1dd9ce77c926ceb5ad95a",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://92f6bcf5508fad2cddaaf2619e844d89a33c091ea4e613ec5795067c1b8b94b7",
-				"dweb:/ipfs/QmeaQdefMQWAQarwxCk2412huhdxn4pgvMuARKx43LW4iB"
+				"bzz-raw://4d3b2c4743bd101d5277991d98507497a9b044f0566c696cc6c4ab74f44801fa",
+				"dweb:/ipfs/QmZEweuoNeighhmdu1RQ6ZVR5RBekW6HdJks4NTtzdFGyB"
 			]
 		}
 	},
