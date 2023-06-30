@@ -6,13 +6,7 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [
-					{
-						"internalType": "address",
-						"name": "oracleAddress",
-						"type": "address"
-					}
-				],
+				"inputs": [],
 				"stateMutability": "nonpayable",
 				"type": "constructor"
 			},
@@ -20,11 +14,18 @@
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "range",
+						"name": "x",
 						"type": "uint256"
 					}
 				],
-				"name": "randMod",
+				"name": "FeedRand",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "rand",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -49,7 +50,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"smartContractOracles.sol": "GenerateRandomNumber"
+			"smartContractOracles.sol": "oracle"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -64,11 +65,11 @@
 	},
 	"sources": {
 		"smartContractOracles.sol": {
-			"keccak256": "0x716697b9127e73df2b047de6a8279102279f70866a221dea601d693d965faeed",
+			"keccak256": "0xac26bccfea61ea71bdddb6b2361720c5fa68be40a82f2b2f53bf87b3f46aeab1",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://86600c49f7d4f0d6c3f1e30f4513e1a71f11b140a337b424a944f61d6ff1ee44",
-				"dweb:/ipfs/QmeKosLpk2YSW3t79QZv7wXHDNSjQpE7c76qtzVJYXiJao"
+				"bzz-raw://6736497145892e4115c02a0651cd379ae1afd78104aad6b08818ac11d57a79a0",
+				"dweb:/ipfs/QmeDUoAhBeAeUDNtbNVWPafntsSSkhqnBSkMW3uXLxx4Lw"
 			]
 		}
 	},
